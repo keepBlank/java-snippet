@@ -15,6 +15,6 @@ public class TestOperator05{
 		int d = 5 << 2;                    // 相当于5*2*2      
 		System.out.println(c);             // 10
 		System.out.println(d);             // 20
-		System.out.println(40>>3);              // 右移一位除以2，相当于 40 / 8
+		System.out.println(40>>3);         // 右移一位除以2，相当于 40 / 8 = 5
 	}
 }
